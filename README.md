@@ -1,7 +1,7 @@
 # dictionaries
 <p>
-	To share dictionaries that i use with my IDEs.<br/>
-	For now, they are sorted by the company responsible for the IDE.
+	Sharing dictionaries that i use with my IDEs.<br/>
+	For now, they are sorted by the company responsible for the software.
 </p>
 
 <p>
